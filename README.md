@@ -1,6 +1,4 @@
-### Hi, I'm [Kacper][website] 👋 
-
-[![Website](https://img.shields.io/website?label=WEBSITEcom&style=for-the-badge&url=https%3A%2F%2FMY%WEBSITE)](https:/kacper-zabielskivercel.app/)
+## Hi, I'm [Kacper][website] 👋 
 
 <br />
 <br />
@@ -35,17 +33,16 @@
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Nextjs" width="26px" height="26px">
 
-
 <br />
 <br />
 
 ### :rocket: My Projects
 
-- [EzeSneakers][website]
+- [EzeSneakers](https://eze-sneakers.vercel.app/)
 - [Todo Maker](https://todo-maker.vercel.app/)
-- [GitHub Repo Finder][website]
+- [GitHub Repo Finder](https://github-repo-finder-sepia.vercel.app/)
 - [Portfolio][website]
-- [Workout Places][website]
+- [Workout Places](https://workout-places-showcase.herokuapp.com/)
 
 <br />
 

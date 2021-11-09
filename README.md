@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/website?label=WEBSITEcom&style=for-the-badge&url=https%3A%2F%2FMY%WEBSITE)](https:/kacper-zabielskivercel.app/)
 
 <br />
+<br />
 
 ## Some facts about me
 
@@ -41,7 +42,7 @@
 ### :rocket: My Projects
 
 - [EzeSneakers][website]
-- [Todo Maker][website]
+- [Todo Maker][https://todo-maker.vercel.app/]
 - [GitHub Repo Finder][website]
 - [Portfolio][website]
 - [Workout Places][website]
@@ -60,4 +61,3 @@
 
 
 [website]: https://kacper-zabielski.vercel.app/
-[linkedin]: https://linkedin.com/in/codeSTACKr

@@ -17,7 +17,24 @@
 
 <br />
 
-<img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/apollostack.svg" alt="Apollo" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="40px" height="40px"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" width="25px" height="25px"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Nextjs" width="25px" height="25px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/apollostack.svg" alt="Apollo" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" width="30px" height="30px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Nextjs" width="30px" height="30px">
 
 
 <br />

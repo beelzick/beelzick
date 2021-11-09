@@ -42,7 +42,7 @@
 ### :rocket: My Projects
 
 - [EzeSneakers][website]
-- [Todo Maker][https://todo-maker.vercel.app/]
+- [Todo Maker](https://todo-maker.vercel.app/)
 - [GitHub Repo Finder][website]
 - [Portfolio][website]
 - [Workout Places][website]

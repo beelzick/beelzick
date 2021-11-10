@@ -1,8 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
 
-<br />
-<br />
-
 ## Some facts about me
 
 - :computer: I enjoy coding

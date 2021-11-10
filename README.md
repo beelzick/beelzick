@@ -9,7 +9,7 @@
 - :mortar_board: I study computer science
 
 
-### Technology Stack
+## Technology Stack
 
 
 
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-### :rocket: My Projects
+## :rocket: My Projects
 
 - [EzeSneakers](https://eze-sneakers.vercel.app/)
 - [Todo Maker](https://todo-maker.vercel.app/)
@@ -45,14 +45,14 @@
 
 <br />
 
-### :telephone_receiver: Connect with me:
+## :telephone_receiver: Connect with me:
 
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+[<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/facebook.svg" alt="Facebook" width="26px" height="26px">][fb]
+[<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="26px" height="26px">][linkedin]
+[<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="email" width="26px" height="26px">][email]
 
-
-
-
+[email]: mailto:kacper.zabielski05@gmail.com
+[linkedin]: https://www.linkedin.com/in/kacper-zabielski-329911217/
+[fb]: https://www.facebook.com/kacper.zabielski/
 [website]: https://kacper-zabielski.vercel.app/

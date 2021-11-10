@@ -43,7 +43,7 @@
 - [Portfolio][website]
 - [Workout Places](https://workout-places-showcase.herokuapp.com/)
 
-<br />
+
 
 
 ## :telephone_receiver: Connect with me:

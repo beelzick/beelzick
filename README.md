@@ -4,7 +4,7 @@
 
 - :computer: I enjoy coding
 - :microscope: I'm interested in sciene
-- :seedling: I’m currently expanding my knowledge of the frontend 
+- :seedling: I’m currently expanding my knowledge of the frontend
 - :zap: I am active in sport
 - :mortar_board: I study computer science
 
@@ -21,7 +21,6 @@
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/apollostack.svg" alt="Apollo" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="26px" height="26px">
-<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="26px" height="26px">

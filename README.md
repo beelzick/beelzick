@@ -9,7 +9,7 @@
 - :mortar_board: I study computer science
 
 
-## Technology Stack
+## 	:flying_saucer: Technology Stack
 
 
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="26px" height="26px">

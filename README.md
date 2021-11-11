@@ -1,6 +1,6 @@
 # Hi, I'm [Kacper][website] 👋 
 
-## Some facts about me
+## 	:eye: Some facts about me
 
 - :computer: I enjoy coding
 - :microscope: I'm interested in sciene

@@ -28,7 +28,9 @@
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="26px" height="26px">
+<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/auth0.svg" alt="Auth0" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Nextjs" width="26px" height="26px">
+
 
 
 <br />

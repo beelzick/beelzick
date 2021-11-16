@@ -41,7 +41,7 @@
 - [Todo Maker](https://todo-maker.vercel.app/)
 - [GitHub Repo Finder](https://github-repo-finder-sepia.vercel.app/)
 - [Portfolio][website]
-- [Workout Places](https://workout-places-showcase.herokuapp.com/)
+- [Workout Places (Express)](https://workout-places-showcase.herokuapp.com/)
 
 
 

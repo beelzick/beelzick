@@ -41,7 +41,9 @@
 - [Todo Maker](https://todo-maker.vercel.app/)
 - [GitHub Repo Finder](https://github-repo-finder-sepia.vercel.app/)
 - [Portfolio][website]
+- [Rainbow Calculator](https://rainbow-calculator.vercel.app/)
 - [Workout Places (Express)](https://workout-places-showcase.herokuapp.com/)
+
 
 
 

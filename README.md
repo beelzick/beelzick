@@ -1,5 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
-I build apps in React
+I feel the power of React :zap:
 
 ## 	:eye: Some facts about me
 

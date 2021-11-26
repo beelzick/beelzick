@@ -1,4 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
+I build apps in React
 
 ## 	:eye: Some facts about me
 

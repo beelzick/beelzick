@@ -1,5 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
-I build apps in React <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="26px" height="26px">
+I build apps in React    <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="26px" height="26px">
 
 ## 	:eye: Some facts about me
 

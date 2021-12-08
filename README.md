@@ -1,5 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
-I feel the power of React :zap:
+React :zap:
 
 ## 	:eye: Some facts about me
 

@@ -3,7 +3,7 @@ React :zap:
 
 ## 	:eye: Some facts about me
 
-- :computer: I enjoy coding
+- :computer: I love coding
 - :microscope: I'm interested in sciene
 - :seedling: I’m currently expanding my knowledge of the frontend
 - :zap: I am active in sport

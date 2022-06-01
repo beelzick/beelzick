@@ -43,11 +43,7 @@ React :zap:
 - [Workout Places](https://workout-places.vercel.app/)
 - [Todo Maker](https://todo-maker.vercel.app/)
 - [GitHub Repo Finder](https://github-repo-finder-sepia.vercel.app/)
-- [Portfolio][website]
 - [Rainbow Calculator](https://rainbow-calculator.vercel.app/)
-
-
-
 
 
 ## :telephone_receiver: Connect with me:

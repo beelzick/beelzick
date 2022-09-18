@@ -28,7 +28,6 @@ React :zap:
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="26px" height="26px">
-<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Nextjs" width="26px" height="26px">
 <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="cypress" width="26px" height="26px">

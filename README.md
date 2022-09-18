@@ -5,7 +5,7 @@ React :zap:
 
 - :computer: I love coding
 - :microscope: I'm interested in sciene
-- :seedling: I’m currently expanding my knowledge of the frontend
+- :seedling: I’m constantly expanding my knowledge of the frontend world
 - :zap: I am active in sport
 - :mortar_board: I study computer science
 

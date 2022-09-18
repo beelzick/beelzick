@@ -35,7 +35,7 @@ React :zap:
 <br />
 <br />
 
-## :rocket: My Projects
+## :rocket: My Sandobx Projects
 
 - [EzeSneakers](https://eze-sneakers.vercel.app/)
 - [Workout Places](https://workout-places.vercel.app/)

@@ -1,5 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
-React :zap:
+React + Vue :zap:
 
 ## 	:eye: Some facts about me
 

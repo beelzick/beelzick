@@ -37,12 +37,12 @@ React + Vue :zap:
 
 ## :rocket: My Sandbox Projects
 
+- [Weather App](https://weatherdrobe.pl/warszawa)
 - [EzeSneakers](https://eze-sneakers.vercel.app/)
 - [Workout Places](https://workout-places.vercel.app/)
 - [Todo Maker](https://todo-maker.vercel.app/)
 - [GitHub Repo Finder](https://github-repo-finder-sepia.vercel.app/)
 - [Rainbow Calculator](https://rainbow-calculator.vercel.app/)
-- [Weather App](https://weatherdrobe.pl/warszawa)
 
 
 ## :telephone_receiver: Connect with me:

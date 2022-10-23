@@ -7,7 +7,6 @@ React + Vue :zap:
 - :microscope: I'm interested in sciene
 - :seedling: I’m constantly expanding my knowledge of the frontend world
 - :zap: I am active in sport
-- :mortar_board: I study computer science
 
 
 ## 	:flying_saucer: Technology Stack

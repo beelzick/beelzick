@@ -41,5 +41,5 @@ React + Next.js :zap:
 [<img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="email" width="26px" height="26px">][email]
 
 [email]: mailto:kacper.zabielski05@gmail.com
-[linkedin]: https://www.linkedin.com/in/kacper-zabielski-329911217/
-[website]: https://kacper-zabielski.vercel.app/
+[linkedin]: https://www.linkedin.com/in/kacper-zabielski/
+[website]: https://www.linkedin.com/in/kacper-zabielski/

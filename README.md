@@ -5,7 +5,7 @@ React + Next.js :zap:
 
 - :computer: I love coding
 - :microscope: I'm interested in sciene
-- :seedling: I’m constantly expanding my knowledge of the frontend world
+- :seedling: I’m constantly expanding my knowledge
 - :zap: I am active in sport
 
 

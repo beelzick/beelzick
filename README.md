@@ -1,5 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
-React + Next.js :zap:
+React, Next.js, Python, Node.js, Vue, everything...
 
 ## 	:eye: Some facts about me
 

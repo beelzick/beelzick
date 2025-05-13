@@ -8,9 +8,6 @@ React, Next.js, Python, Node.js, Vue, JavaScript, TypeScript everything...
 - :seedling: I’m constantly expanding my knowledge
 - :zap: I am active in sport
 
-<br />
-<br />
-
 ## :telephone_receiver: Connect with me:
 
 

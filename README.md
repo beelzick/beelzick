@@ -1,5 +1,5 @@
 # Hi, I'm [Kacper][website] 👋 
-React, Next.js, Python, Node.js, Vue, everything...
+React, Next.js, Python, Node.js, Vue, JavaScript, TypeScript everything...
 
 ## 	:eye: Some facts about me
 
